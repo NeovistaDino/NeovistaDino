@@ -1,0 +1,9 @@
+print("%d" %("20"))
+# TypeError: %d format: a number is required, not str
+
+print("%d" %(20))
+"""
+문제 : ~~~~
+힌트 : %d
+결과 : 20
+"""
